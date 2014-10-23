@@ -1,0 +1,5 @@
+Z:\Development\BatchPropertyEditor\BatchPropertyEditor\bin\Debug\BatchPropertyEditor.exe
+Z:\Development\BatchPropertyEditor\BatchPropertyEditor\bin\Debug\BatchPropertyEditor.pdb
+Z:\Development\BatchPropertyEditor\BatchPropertyEditor\obj\x86\Debug\BatchPropertyEditor.csprojResolveAssemblyReference.cache
+Z:\Development\BatchPropertyEditor\BatchPropertyEditor\obj\x86\Debug\BatchPropertyEditor.exe
+Z:\Development\BatchPropertyEditor\BatchPropertyEditor\obj\x86\Debug\BatchPropertyEditor.pdb
